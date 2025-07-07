@@ -1,1 +1,2 @@
 # DocuMint AI
+DocuMint AI is an Document Processing application, where the user can upload a PDF or image of a financial document. The backend processes the document using Optical Character Recognition (OCR) and a custom-trained Natural Language Processing model to identify and extract key entities like Company Name, Invoice Number, Total Amount, Due Date, and Account Number. The extracted data is then displayed on a clean dashboard and can be exported.
