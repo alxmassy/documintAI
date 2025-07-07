@@ -1,1 +1,1 @@
-# documintAI
+# DocuMint AI
