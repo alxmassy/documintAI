@@ -1,0 +1,47 @@
+[
+  {
+    "data": {
+      "text": "Employee: Rohan Mehta\nEmployee ID: EMP1023\nBasic Pay: Rs. 30,000\nHRA: Rs. 10,000\nConveyance: Rs. 3,000\nDeductions: Rs. 4,500\n\nNet Pay: Rs. 38,500\n\nSalary Payslip - June 2025\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "Retail Purchase Receipt\n\nStore: SuperMart Central\nDate: 2025-06-15\nTransaction ID: TXN123456\nItems:\n\n- Milk (2 units): Rs. 60\n\n- Bread (1 unit): Rs. 40\n\n- Butter (1 unit): Rs. 80\nTotal: Rs. 180\n\nPayment Method: UPI\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "GST Tax Invoice\nSeller: TechnoHub Pvt. Ltd.\nGSTIN: 0O7AABCT1234F1Z5\nInvoice No: GST-INV-5432\nDate: 2025-07-05\nProduct: Software License\nAmount (Excl. GST): Rs. 10,000\nGST @ 18%: Rs. 1,800\n\nTotal Amount: Rs. 11,800\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "Balance Sheet - FY 2024-25\n\nAssets:\n\n- Cash: Rs. 50,000\n\n- Inventory: Rs. 1,20,000\n\n- Equipment: Rs. 2,00,000\nLiabilities:\n\n- Loans: Rs. 1,00,000\n\n- Creditors: Rs. 70,000\n\nOwner's Equity: Rs. 2,00,000\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "PO Number: PO-7788\n\nVendor: Supplies4U Pvt. Ltd.\n\nOrder Date: 2025-06-25\nItems:\n\n- Monitor x 10 @ Rs. 8,000\n- Keyboard x 10 @ Rs. 500\n\nTotal: Rs. 85,000\n\nPurchase Order\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "Loan ID: LN0012456\nPrincipal: Rs. 2,00,000\nEMI: Rs. 5,500\nOutstanding: Rs. 1,45,000\nLast Payment: 05-Jun-2025\n\nNext Due Date: 05-Jul-2025\n\nLoan Statement\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "Service Subscription Receipt\nService: StreamFlix Pro Annual Plan\nUser: user123@streamflix.com\nDate: 2025-07-01\nTransaction ID: PAY999987\nAmount Paid: Rs. 1499\nPayment Method: Credit Card (**** 1234)\n\nNext Billing Date: 2026-07-01\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "Invoice\nFrom: Alex Tech Solutions\nTo: John Doe Enterprises\nDate: 2025-07-07\n\nInvoice #: INV-3671\n\nDescription Qty Unit Price Total\nService 1 1 Rs. 4657 Rs. 4657\nService 2 3 Rs. 3142 Rs. 9426\nService 3 4 Rs. 19372\nService 4 3 Rs. 5445\nService 5 5 Rs. 16670\n\nGrand Total\n\nRs. 55570\n\n\n\n"
+    }
+  },
+  {
+    "data": {
+      "text": "Invoice\nFrom: BigCorp Pvt. Ltd.\nTo: Customer XYZ\nDate: 2025-07-07\n\nInvoice #: INV-2516\n\nDescription Qty Unit Price Total\n\nService 1 2 Rs. 1079 Rs. 2158\n\nService 2 4 Rs. 3744 Rs. 14976\nService 3 2 Rs. 2109 Rs. 4218\nService 4 5 Rs. 2414 Rs. 12070\n\nService 5 4 Rs. 4686 Rs. 18744\n\nGrand Total Rs. 52166\n\n\n\n"
+    }
+  }
+]
