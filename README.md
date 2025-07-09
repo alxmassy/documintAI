@@ -1,6 +1,6 @@
-# FinDoc-Extractor
+# DocuMint AI
 
-FinDoc-Extractor is a full-stack web application designed to automate financial document processing. Users can upload invoices, receipts, or other financial documents (PDFs/Images), and the system will use Optical Character Recognition (OCR) and a custom-trained Natural Language Processing (NLP) model to extract key information.
+DocuMint AI is a full-stack web application designed to automate financial document processing. Users can upload invoices, receipts, or other financial documents (PDFs/Images), and the system will use Optical Character Recognition (OCR) and a custom-trained Natural Language Processing (NLP) model to extract key information.
 
 The extracted data is presented on a clean dashboard, enabling users to quickly view and manage important financial details and export them for further use.
 
